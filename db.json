@@ -1,0 +1,241 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "price": 222,
+      "description": "mo ta san pham 1",
+      "title": "ten san pham 1"
+    },
+    {
+      "title": "dasdasda",
+      "description": "sdasdasd",
+      "price": 23424,
+      "id": 6
+    },
+    {
+      "title": "san pham thu",
+      "description": "mo ta",
+      "price": 678778,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "username": "trung hieu",
+      "email": "trunghieu@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "id": 1
+    },
+    {
+      "username": "hieu",
+      "email": "trunghieu2@gmail.com",
+      "password": "121212",
+      "confirmPassword": "121212",
+      "id": 2
+    },
+    {
+      "username": "hieu",
+      "email": "trte21das321@gmail.com",
+      "password": "121212",
+      "confirmPassword": "121212",
+      "id": 3
+    },
+    {
+      "email": "aaaa@gmsil.vom",
+      "password": "$2a$10$5TsjDF6H4P/E/c5hnglLWegCcY28U4GeR0ucPAsu6zTlvqcXdLWL.",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 4
+    },
+    {
+      "email": "aaaa@gmsil.com",
+      "password": "$2a$10$N0Dm9xQzAoQ.xBA5lZA1bOTVTCoESeAJ8oac71KA77JhRut4zrAi2",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 5
+    },
+    {
+      "email": "trung@gmail.com",
+      "password": "$2a$10$Pme7VniK37RaJva8wGfxE.pOEozTOSsnfAFwA2vHT1xFgLes1D0hu",
+      "username": "trung",
+      "confirmPassword": "121212",
+      "id": 6
+    },
+    {
+      "email": "ahhah@gamil.com",
+      "password": "$2a$10$MzlXi/eO5.09BfxlKWVkWeDoDyzF3NGU9/TgOPsaoJmh6UUTCBXtu",
+      "username": "ahhah",
+      "confirmPassword": "121212",
+      "id": 7
+    },
+    {
+      "email": "ahhah@gmail.com",
+      "password": "$2a$10$bJOkkS4ytE713FGTzi9EWe8xxSOpee3os5HofjkNbj2K5fAn3HQb.",
+      "username": "ahhah",
+      "confirmPassword": "121212",
+      "id": 8
+    },
+    {
+      "email": "qsdfgdsgd@gmail.com",
+      "password": "$2a$10$LBHXaBeb.E.5JMF/OJXBQ.8JEg4UMvkM2/mAe3K3XjVeMlOj1Hopm",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 9
+    },
+    {
+      "email": "sdfsdf@gmail.com",
+      "password": "$2a$10$pk.93iGD/z8qbieBG3zec.BuQJXuwj90kwtIXMu05aTgP7CDKXRAS",
+      "username": "dasdasd",
+      "confirmPassword": "121212",
+      "id": 10
+    },
+    {
+      "email": "sdfsssfdf@gmail.com",
+      "password": "$2a$10$yHUY7LLPa9/o7FGFVfQZWOL8VLi22CUc3RaeWqaBKeUNuke5BiXIy",
+      "username": "dasdasd",
+      "confirmPassword": "121212",
+      "id": 11
+    },
+    {
+      "email": "rwere@gmail.co",
+      "password": "$2a$10$SkxDV15P9ozq1fxYmClUoO2WBl1okIZxGkazhCUaYR0FJ3Tw1nJOq",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 12
+    },
+    {
+      "email": "rewrwe@gmail.com",
+      "password": "$2a$10$a1f4217WaY3bJPd4p//zlObsu8ooE6Jx8lUS.HdIB0QSG/e74y036",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 13
+    },
+    {
+      "email": "trongle@gmail.com",
+      "password": "$2a$10$GqCN5zA.9cSWWkI9VstcJOg4SUqXHhEF3rfHFeUwOqxe/02wlvBJa",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 14
+    },
+    {
+      "email": "trongle2@gmail.com",
+      "password": "$2a$10$atVqCGfp/yP34ruXPPdTlOAukvB1ZcgV2TtSmo0qW4Cs3AInZNbdq",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 15
+    },
+    {
+      "email": "trongle2321312@gmail.com",
+      "password": "$2a$10$fsfn/KE.vG2t.zZukodHO.o.RBYpZFBPPNN7i4xyARYvWk.dddNj.",
+      "username": "123",
+      "confirmPassword": "123123",
+      "id": 16
+    },
+    {
+      "email": "trongle23213312@gmail.com",
+      "password": "$2a$10$S2lDDqigs8hZacGCQ1EyBOHkqM1WxT2CQHn1Eg2VNa0o06sURyucm",
+      "username": "123",
+      "confirmPassword": "123123",
+      "id": 17
+    },
+    {
+      "email": "hie@gmail.com",
+      "password": "$2a$10$WhzquZTbaNdqjuv7k9J7a.Ye4vcHN7b4CRw2bj8e/S2m1bD707Uky",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 18
+    },
+    {
+      "email": "aaasssa@gmsil.vom",
+      "password": "$2a$10$c7kBS1RsmqyZIzMZUhX2Vu8rCIZZ0sVZy6VVJf2hoYa/7SD/AGpte",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 19
+    },
+    {
+      "email": "aa@gmsil.vom",
+      "password": "$2a$10$9RTTLlEQ9o/IK7B89sV7leYawwYxtDt5kX0emZ6qYS3lkootLrNNq",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 20
+    },
+    {
+      "email": "trunghieu2343434@gmail.com",
+      "password": "$2a$10$1GH5.Ba4dxJWlhLy4HSWjehlm/KPdkTLZzEi5WDOFX9buUAMhR9j.",
+      "username": "hieu",
+      "confirmPassword": "121212",
+      "id": 21
+    },
+    {
+      "email": "123123@gmail.com",
+      "password": "$2a$10$hr7xT3jQUCLK8udpTavh0uaSYQvuLGw1t10uHlNen8Mz1yKfx70V6",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 22
+    },
+    {
+      "email": "1231234@gmail.com",
+      "password": "$2a$10$AFMdf9wPvqWCj4.9xJqvZektKka/F4xbdrHDT1pY07BLKLAzVL3KO",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 23
+    },
+    {
+      "email": "1231235@gmail.com",
+      "password": "$2a$10$M99axjFpjytPiGjKB5Cdeei73Y85qAMdy7C9CYgO9JasBzoVU/IhC",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 24
+    },
+    {
+      "email": "12312322@gmail.com",
+      "password": "$2a$10$hz30KvKa.zngA.cmFxbT8e9emkiHGrjiFGHmA0dAoEjbXcfunuSvi",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 25
+    },
+    {
+      "email": "321321@gmail.com",
+      "password": "$2a$10$H7YWReH71mN5rjvgtt6FbehOdumm0UhQ1ji8ll1Yqqoao0YZLctF2",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 26
+    },
+    {
+      "email": "1231223@gmail.com",
+      "password": "$2a$10$SDgLTB.RSwa3ozT6nYlO1.qIN6hks1EnIr7gz2/YNLMfxkuUb.cS2",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 27
+    },
+    {
+      "email": "123122223@gmail.com",
+      "password": "$2a$10$DHdNLtLHRLogYoVSeBvJM.tMb24dtRGD4Rzu1eTksvoMbE1ot2DBK",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 28
+    },
+    {
+      "email": "123122222223@gmail.com",
+      "password": "$2a$10$3kqXxMB99JUM25U4PO0mRu.R5Id.i0pTwm0zUlBBg6vlD65ykJNby",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 29
+    },
+    {
+      "email": "123122222222223@gmail.com",
+      "password": "$2a$10$en3VsaY9aKFetbIC7P9ewus5cweeOiT7zt6efW2z1YpbM/bG8fFJO",
+      "username": "123123",
+      "confirmPassword": "123123",
+      "id": 30
+    },
+    {
+      "email": "hieu@gmail.com",
+      "password": "$2a$10$ukHWTnItzJ9fwtjh7mfjSumWkAlECNum2UPQq0tt2hN9bP.UUD.Iu",
+      "username": "hieu",
+      "confirmPassword": "123123",
+      "id": 31
+    }
+  ]
+}
